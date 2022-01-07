@@ -115,7 +115,7 @@
 	</div>
 	{#if mobile}
 		<div
-			class="fixed right-0 left-0 px-11 py-2 mt-[1.09rem] w-full h-screen bg-slate-50 md:hidden"
+			class="fixed right-0 left-0 px-11 py-2 mt-[1.09rem] w-full h-screen bg-white md:hidden"
 			transition:slide={{ duration: 300, easing: quintOut }}
 		>
 			<input
