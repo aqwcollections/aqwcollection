@@ -1,4 +1,5 @@
 <script lang="ts">
+	// Import modules
 	import { slide } from 'svelte/transition';
 	import { quintOut } from 'svelte/easing';
 
@@ -43,14 +44,18 @@
 					<p class="cursor-pointer hover:text-base-400" on:click={handleItems}>Items</p>
 					{#if items}
 						<div
-							class="pl-3 pr-3 mt-[1.46rem] py-3 bg-gray-300/20 fixed space-y-2 w-40 rounded-b-md"
+							class="pl-3 pr-3 mt-[1.46rem] py-3 bg-gray-50 fixed space-y-2 w-40 rounded-b-md"
 							transition:slide={{ duration: 300, easing: quintOut }}
 						>
-							<li><a class="hover:text-base-400" href="/">Weapon</a></li>
-							<li><a class="hover:text-base-400" href="/items">Armor</a></li>
-							<li><a class="hover:text-base-400" href="/">Helmet</a></li>
-							<li><a class="hover:text-base-400" href="/">Cape</a></li>
-							<li><a class="hover:text-base-400" href="/">Pet</a></li>
+							<li>
+								<a class="hover:text-base-400" on:click={handleItems} href="/weapon">Weapon</a>
+							</li>
+							<li><a class="hover:text-base-400" on:click={handleItems} href="/armor">Armor</a></li>
+							<li>
+								<a class="hover:text-base-400" on:click={handleItems} href="/helmet">Helmet</a>
+							</li>
+							<li><a class="hover:text-base-400" on:click={handleItems} href="/cape">Cape</a></li>
+							<li><a class="hover:text-base-400" on:click={handleItems} href="/pet">Pet</a></li>
 						</div>
 					{/if}
 				</li>
@@ -58,11 +63,17 @@
 					<p class="cursor-pointer hover:text-base-400" on:click={handleFeatures}>Features</p>
 					{#if features}
 						<div
-							class="pl-3 pr-7 mt-[1.46rem] py-3 bg-gray-300/20 fixed space-y-2 w-40 rounded-b-md"
+							class="pl-3 pr-7 mt-[1.46rem] py-3 bg-gray-50 fixed space-y-2 w-40 rounded-b-md"
 							transition:slide={{ duration: 300, easing: quintOut }}
 						>
-							<li><a class="hover:text-base-400" href="/">Rate Character</a></li>
-							<li><a class="hover:text-base-400" href="/items">Need Help</a></li>
+							<li>
+								<a class="hover:text-base-400" on:click={handleFeatures} href="/rate"
+									>Rate Character</a
+								>
+							</li>
+							<li>
+								<a class="hover:text-base-400" on:click={handleFeatures} href="/help">Need Help</a>
+							</li>
 						</div>
 					{/if}
 				</li>
@@ -104,27 +115,32 @@
 				class="px-6 py-2 w-full text-sm text-gray-600 rounded-md outline-none bg-gray-300/20 placeholder:font-medium"
 				placeholder="Search"
 			/>
-			<div>
-				<h1 class="py-1 text-sm font-bold leading-6 text-gray-700 uppercase">Home</h1>
+			<ul>
+				<li on:click={handleMobile}>
+					<a class="py-1 text-sm font-bold leading-6 text-gray-700 uppercase" href="/">Home</a>
+				</li>
 				<h1 class="py-1 text-sm font-bold leading-6 text-gray-700 uppercase">Items</h1>
 				<ul class="px-2 py-1 space-y-2 text-sm font-medium text-gray-700">
-					<li on:click={handleMobile}><a class="hover:text-base-400" href="/">Weapon</a></li>
-					<li on:click={handleMobile}><a class="hover:text-base-400" href="/items">Armor</a></li>
-					<li on:click={handleMobile}><a class="hover:text-base-400" href="/">Helmet</a></li>
-					<li on:click={handleMobile}><a class="hover:text-base-400" href="/">Cape</a></li>
-					<li on:click={handleMobile}><a class="hover:text-base-400" href="/">Pet</a></li>
+					<li on:click={handleMobile}><a class="hover:text-base-400" href="/weapon">Weapon</a></li>
+					<li on:click={handleMobile}><a class="hover:text-base-400" href="/armor">Armor</a></li>
+					<li on:click={handleMobile}><a class="hover:text-base-400" href="/helmet">Helmet</a></li>
+					<li on:click={handleMobile}><a class="hover:text-base-400" href="/cape">Cape</a></li>
+					<li on:click={handleMobile}><a class="hover:text-base-400" href="/pet">Pet</a></li>
 				</ul>
 				<h1 class="py-1 text-sm font-bold leading-6 text-gray-700 uppercase">Features</h1>
 				<ul class="px-2 py-1 space-y-2 text-sm font-medium text-gray-700">
 					<li on:click={handleMobile}>
-						<a class="hover:text-base-400" href="/">Rate Character</a>
+						<a class="hover:text-base-400" href="/rate">Rate Character</a>
 					</li>
 					<li on:click={handleMobile}>
-						<a class="hover:text-base-400" href="/items">Need Help</a>
+						<a class="hover:text-base-400" href="/help">Need Help</a>
 					</li>
 				</ul>
-				<h1 class="py-1 text-sm font-bold leading-6 text-gray-700 uppercase">About</h1>
-			</div>
+				<li on:click={handleMobile}>
+					<a class="py-1 text-sm font-bold leading-6 text-gray-700 uppercase" href="/about">About</a
+					>
+				</li>
+			</ul>
 		</div>
 	{/if}
 </navbar>
