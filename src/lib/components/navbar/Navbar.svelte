@@ -48,14 +48,22 @@
 							transition:slide={{ duration: 300, easing: quintOut }}
 						>
 							<li>
-								<a class="hover:text-base-400" on:click={handleItems} href="/weapon">Weapon</a>
+								<a class="hover:text-base-400" on:click={handleItems} href="/items/weapon">Weapon</a
+								>
 							</li>
-							<li><a class="hover:text-base-400" on:click={handleItems} href="/armor">Armor</a></li>
 							<li>
-								<a class="hover:text-base-400" on:click={handleItems} href="/helmet">Helmet</a>
+								<a class="hover:text-base-400" on:click={handleItems} href="/items/armor">Armor</a>
 							</li>
-							<li><a class="hover:text-base-400" on:click={handleItems} href="/cape">Cape</a></li>
-							<li><a class="hover:text-base-400" on:click={handleItems} href="/pet">Pet</a></li>
+							<li>
+								<a class="hover:text-base-400" on:click={handleItems} href="/items/helmet">Helmet</a
+								>
+							</li>
+							<li>
+								<a class="hover:text-base-400" on:click={handleItems} href="/items/cape">Cape</a>
+							</li>
+							<li>
+								<a class="hover:text-base-400" on:click={handleItems} href="/items/pet">Pet</a>
+							</li>
 						</div>
 					{/if}
 				</li>
@@ -121,11 +129,19 @@
 				</li>
 				<h1 class="py-1 text-sm font-bold leading-6 text-gray-700 uppercase">Items</h1>
 				<ul class="px-2 py-1 space-y-2 text-sm font-medium text-gray-700">
-					<li on:click={handleMobile}><a class="hover:text-base-400" href="/weapon">Weapon</a></li>
-					<li on:click={handleMobile}><a class="hover:text-base-400" href="/armor">Armor</a></li>
-					<li on:click={handleMobile}><a class="hover:text-base-400" href="/helmet">Helmet</a></li>
-					<li on:click={handleMobile}><a class="hover:text-base-400" href="/cape">Cape</a></li>
-					<li on:click={handleMobile}><a class="hover:text-base-400" href="/pet">Pet</a></li>
+					<li on:click={handleMobile}>
+						<a class="hover:text-base-400" href="/items/weapon">Weapon</a>
+					</li>
+					<li on:click={handleMobile}>
+						<a class="hover:text-base-400" href="/items/armor">Armor</a>
+					</li>
+					<li on:click={handleMobile}>
+						<a class="hover:text-base-400" href="/items/helmet">Helmet</a>
+					</li>
+					<li on:click={handleMobile}>
+						<a class="hover:text-base-400" href="/items/cape">Cape</a>
+					</li>
+					<li on:click={handleMobile}><a class="hover:text-base-400" href="/items/pet">Pet</a></li>
 				</ul>
 				<h1 class="py-1 text-sm font-bold leading-6 text-gray-700 uppercase">Features</h1>
 				<ul class="px-2 py-1 space-y-2 text-sm font-medium text-gray-700">
