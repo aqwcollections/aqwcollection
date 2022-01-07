@@ -1,0 +1,300 @@
+[
+	{
+		"name": "Amethyst Axe",
+		"link": "http://aqwwiki.wikidot.com/amethyst-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"],
+		"image": ["http://i.imgur.com/udahh0C.png"]
+	},
+	{
+		"name": "Axe of Frozen Peace",
+		"link": "http://aqwwiki.wikidot.com/axe-of-frozen-peace",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/axe-of-frozen-peace/AxeofFrozenPeace.png"]
+	},
+	{
+		"name": "Axe of the Light",
+		"link": "http://aqwwiki.wikidot.com/axe-of-the-light",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/CIM74s6.png"]
+	},
+	{
+		"name": "Chocolate Bite of Destiny",
+		"link": "http://aqwwiki.wikidot.com/chocolate-bite-of-destiny",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/5dXWtEn.png"]
+	},
+	{
+		"name": "Citrine Axe",
+		"link": "http://aqwwiki.wikidot.com/citrine-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"],
+		"image": ["http://i.imgur.com/1HUuMff.png"]
+	},
+	{
+		"name": "Cyber PoleAxe",
+		"link": "http://aqwwiki.wikidot.com/cyber-poleaxe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://imgur.com/NBjR2Mj.png"]
+	},
+	{
+		"name": "Double Blade of Ice",
+		"link": "http://aqwwiki.wikidot.com/double-blade-of-ice",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"],
+		"image": ["http://i.imgur.com/4AvINOE.png"]
+	},
+	{
+		"name": "Emerald Axe",
+		"link": "http://aqwwiki.wikidot.com/emerald-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"],
+		"image": ["http://i.imgur.com/QJFvNF9.png"]
+	},
+	{
+		"name": "Enchanted Mountaineer's Ice Axe",
+		"link": "http://aqwwiki.wikidot.com/enchanted-mountaineer-s-ice-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://imgur.com/1CzXPIR.png"]
+	},
+	{
+		"name": "Frostlorn Axe",
+		"link": "http://aqwwiki.wikidot.com/frostlorn-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://imgur.com/OvFYExs.png"]
+	},
+	{
+		"name": "Frozen Axe",
+		"link": "http://aqwwiki.wikidot.com/frozen-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/vd1uco7.png"]
+	},
+	{
+		"name": "Gargoyle Axe",
+		"link": "http://aqwwiki.wikidot.com/gargoyle-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/3yitw36.png"]
+	},
+	{
+		"name": "Glacial Troll Axe",
+		"link": "http://aqwwiki.wikidot.com/glacial-troll-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"],
+		"image": ["http://i.imgur.com/Pf3P7Dh.png"]
+	},
+	{
+		"name": "Harvest Sickle",
+		"link": "http://aqwwiki.wikidot.com/harvest-sickle",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/DhA6U9M.png"]
+	},
+	{
+		"name": "Heavy Celtic Axe",
+		"link": "http://aqwwiki.wikidot.com/heavy-celtic-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/eZz4KEa.png"]
+	},
+	{
+		"name": "Icy Frostlorn Axe",
+		"link": "http://aqwwiki.wikidot.com/icy-frostlorn-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/49X3mbg.png"]
+	},
+	{
+		"name": "Iron Maple Leaf Axe",
+		"link": "http://aqwwiki.wikidot.com/iron-maple-leaf-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/J6Mv7aJ.png"]
+	},
+	{
+		"name": "Love Bard's Guitar",
+		"link": "http://aqwwiki.wikidot.com/love-bard-s-guitar",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"],
+		"image": ["https://imgur.com/7X9VBJ0.png"]
+	},
+	{
+		"name": "Lumberjack Axe (1)",
+		"link": "http://aqwwiki.wikidot.com/lumberjack-axe-1",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/TCcjraF.png"]
+	},
+	{
+		"name": "Lumberjack Axe (2)",
+		"link": "http://aqwwiki.wikidot.com/lumberjack-axe-2",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"],
+		"image": ["http://i.imgur.com/TCcjraF.png"]
+	},
+	{
+		"name": "Mariachi Hero Guitar",
+		"link": "http://aqwwiki.wikidot.com/mariachi-hero-guitar",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"],
+		"image": ["https://i.imgur.com/oXfiPdF.png"]
+	},
+	{
+		"name": "Meat Cleaver",
+		"link": "http://aqwwiki.wikidot.com/meat-cleaver",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/nu7NMmH.png"]
+	},
+	{
+		"name": "Rooted Axe",
+		"link": "http://aqwwiki.wikidot.com/rooted-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/oHbp8NB.png"]
+	},
+	{
+		"name": "Ruby Axe",
+		"link": "http://aqwwiki.wikidot.com/ruby-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"],
+		"image": ["http://i.imgur.com/9jQc7ec.png"]
+	},
+	{
+		"name": "Sapphire Axe",
+		"link": "http://aqwwiki.wikidot.com/sapphire-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"],
+		"image": ["http://i.imgur.com/IxiwDqj.png"]
+	},
+	{
+		"name": "Slithering Hunter Axe",
+		"link": "http://aqwwiki.wikidot.com/slithering-hunter-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"],
+		"image": ["https://i.imgur.com/pi0K3Mw.png"]
+	},
+	{
+		"name": "Snowy Axe",
+		"link": "http://aqwwiki.wikidot.com/snowy-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/WbB5xej.png"]
+	},
+	{
+		"name": "Space-timeless Axe",
+		"link": "http://aqwwiki.wikidot.com/space-timeless-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://imgur.com/VCsEKEr.png", "https://imgur.com/wyXSZzl.png"]
+	},
+	{
+		"name": "Spooky Axe",
+		"link": "http://aqwwiki.wikidot.com/spooky-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"],
+		"image": ["https://i.imgur.com/Ia6FpFc.png"]
+	},
+	{
+		"name": "Steampunk Hatchet",
+		"link": "http://aqwwiki.wikidot.com/steampunk-hatchet",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["http://i.imgur.com/frl1g5l.png"]
+	},
+	{
+		"name": "Sub-Zero Hatchet",
+		"link": "http://aqwwiki.wikidot.com/sub-zero-hatchet",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/1veAHJG.png"]
+	},
+	{
+		"name": "Valaska",
+		"link": "http://aqwwiki.wikidot.com/valaska",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/65qRgo5.png"]
+	},
+	{
+		"name": "Warlock of Love Axe",
+		"link": "http://aqwwiki.wikidot.com/warlock-of-love-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"],
+		"image": ["https://i.imgur.com/Bd82Hwf.png"]
+	},
+	{
+		"name": "What Made the Horseman",
+		"link": "http://aqwwiki.wikidot.com/what-made-the-horseman",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/Fryri2P.png"]
+	}
+]

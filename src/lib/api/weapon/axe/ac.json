@@ -1,0 +1,3001 @@
+[
+	{
+		"name": "8 Bit Artix's Axe",
+		"link": "http://aqwwiki.wikidot.com/8-bit-artix-s-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/Roqpv96.png", "https://i.imgur.com/MiplkpY.png"]
+	},
+	{
+		"name": "9001 SHU Keytar",
+		"link": "http://aqwwiki.wikidot.com/9001-shu-keytar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/FMEwbQG.png"]
+	},
+	{
+		"name": "Abaddon's Orb Weaver Axe",
+		"link": "http://aqwwiki.wikidot.com/abaddon-s-orb-weaver-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/abaddon-s-orb-weaver-axe/AOWA.png"]
+	},
+	{
+		"name": "Absym Axe",
+		"link": "http://aqwwiki.wikidot.com/absym-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/HC0nRcE.png"]
+	},
+	{
+		"name": "Ancient Legion Axe",
+		"link": "http://aqwwiki.wikidot.com/ancient-legion-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/s6tKkSJ.png"]
+	},
+	{
+		"name": "Apocalyptic Draconian Axe",
+		"link": "http://aqwwiki.wikidot.com/apocalyptic-draconian-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/Jns73ZN.png", "https://i.imgur.com/wZik5KY.png"]
+	},
+	{
+		"name": "Apocalyptic Draconian BattleAxe",
+		"link": "http://aqwwiki.wikidot.com/apocalyptic-draconian-battleaxe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/hslZnNZ.png", "https://i.imgur.com/h1L5LFd.png"]
+	},
+	{
+		"name": "Apocalyptic LichKing's Axe",
+		"link": "http://aqwwiki.wikidot.com/apocalyptic-lichking-s-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/BdtfE6F.png"]
+	},
+	{
+		"name": "Arbiter's Crusher",
+		"link": "http://aqwwiki.wikidot.com/arbiter-s-crusher",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/OD8XN77.png"]
+	},
+	{
+		"name": "Archfiend Annihilator of Death",
+		"link": "http://aqwwiki.wikidot.com/archfiend-annihilator-of-death",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/2rE8twK.png", "https://imgur.com/EpxIv0y.png"]
+	},
+	{
+		"name": "Archfiend Dragonlord's Axe",
+		"link": "http://aqwwiki.wikidot.com/archfiend-dragonlord-s-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/UTXEEE8.png"]
+	},
+	{
+		"name": "Arc-Lightning Guitar",
+		"link": "http://aqwwiki.wikidot.com/arc-lightning-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/arc-lightning-guitar/Arc-LightningGuitar.png"
+		]
+	},
+	{
+		"name": "Arena Rockstar Guitar",
+		"link": "http://aqwwiki.wikidot.com/arena-rockstar-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/H7UVTeT.png"]
+	},
+	{
+		"name": "Artix's Golden Paladin Axe",
+		"link": "http://aqwwiki.wikidot.com/artix-s-golden-paladin-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://i.imgur.com/i1EKMkj.png"]
+	},
+	{
+		"name": "Ascended Light of Destiny",
+		"link": "http://aqwwiki.wikidot.com/ascended-light-of-destiny",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/RanNxu8.png", "http://i.imgur.com/YubG6YC.png"]
+	},
+	{
+		"name": "Ashaan Arch Axe",
+		"link": "http://aqwwiki.wikidot.com/ashaan-arch-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/ashaan-arch-axe/AshaanArchAxe.png"]
+	},
+	{
+		"name": "Astravian Mercenary's Axe",
+		"link": "http://aqwwiki.wikidot.com/astravian-mercenary-s-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/opZj2Ef.png"]
+	},
+	{
+		"name": "Avian Grace",
+		"link": "http://aqwwiki.wikidot.com/avian-grace",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/avian-grace/AvianGrace.png"]
+	},
+	{
+		"name": "Awakened Axe of Golmoth",
+		"link": "http://aqwwiki.wikidot.com/awakened-axe-of-golmoth",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/HBPUI6L.png"]
+	},
+	{
+		"name": "Axe of Absolute Death",
+		"link": "http://aqwwiki.wikidot.com/axe-of-absolute-death",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/GHOQOCU.png"]
+	},
+	{
+		"name": "Axe of Bone-Shattering",
+		"link": "http://aqwwiki.wikidot.com/axe-of-bone-shattering",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://i.imgur.com/ZzP2peI.png"]
+	},
+	{
+		"name": "Axe of Boneshearing",
+		"link": "http://aqwwiki.wikidot.com/axe-of-boneshearing",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/cOTLxky.png"]
+	},
+	{
+		"name": "Axe of Chaos",
+		"link": "http://aqwwiki.wikidot.com/axe-of-chaos",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/bG829Ce.png"]
+	},
+	{
+		"name": "Axe of Frozen Agony",
+		"link": "http://aqwwiki.wikidot.com/axe-of-frozen-agony",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/axe-of-frozen-agony/AxeofFrozenAgony.png"]
+	},
+	{
+		"name": "Axe of Hauberk",
+		"link": "http://aqwwiki.wikidot.com/axe-of-hauberk",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/CSqAeJN.png"]
+	},
+	{
+		"name": "Axe of Minar",
+		"link": "http://aqwwiki.wikidot.com/axe-of-minar",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/qZrKEE3.png"]
+	},
+	{
+		"name": "Axe of Songs",
+		"link": "http://aqwwiki.wikidot.com/axe-of-songs",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://imgur.com/n1B1jq5.png"]
+	},
+	{
+		"name": "Axe of Songs Attack Guitar",
+		"link": "http://aqwwiki.wikidot.com/axe-of-songs-attack-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/x3mYrZj.png"]
+	},
+	{
+		"name": "Axe of the EbilCorp Knight",
+		"link": "http://aqwwiki.wikidot.com/axe-of-the-ebilcorp-knight",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/axe-of-the-ebilcorp-knight/AxeoftheEbilcorpKnight1.png",
+			"http://aqwwiki.wdfiles.com/local--files/axe-of-the-ebilcorp-knight/AxeoftheEbilcorpKnight2.png",
+			"http://aqwwiki.wdfiles.com/local--files/axe-of-the-ebilcorp-knight/AxeoftheEbilcorpKnight3.png",
+			"https://i.imgur.com/xbeHs1R.png",
+			"http://aqwwiki.wdfiles.com/local--files/axe-of-the-ebilcorp-knight/AxeoftheEbilcorpKnight4.png",
+			"https://i.imgur.com/kkd7b4b.png",
+			"http://aqwwiki.wdfiles.com/local--files/axe-of-the-ebilcorp-knight/AxeoftheEbilcorpKnight5.png",
+			"http://aqwwiki.wdfiles.com/local--files/axe-of-the-ebilcorp-knight/AxeoftheEbilcorpKnight6.png",
+			"https://i.imgur.com/8sxduNX.png",
+			"http://aqwwiki.wdfiles.com/local--files/axe-of-the-ebilcorp-knight/AxeoftheEbilcorpKnight7.png",
+			"https://i.imgur.com/PBG5Hkm.png",
+			"http://aqwwiki.wdfiles.com/local--files/axe-of-the-ebilcorp-knight/AxeoftheEbilcorpKnight8.png"
+		]
+	},
+	{
+		"name": "Axe of the Light",
+		"link": "http://aqwwiki.wikidot.com/axe-of-the-light",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/CIM74s6.png"]
+	},
+	{
+		"name": "Battle Berimbau",
+		"link": "http://aqwwiki.wikidot.com/battle-berimbau",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/battle-berimbau/BattleBerimbau.png"]
+	},
+	{
+		"name": "Battlegear E Axe",
+		"link": "http://aqwwiki.wikidot.com/battlegear-e-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/pwmLT8v.png"]
+	},
+	{
+		"name": "Battlegear P Axe",
+		"link": "http://aqwwiki.wikidot.com/battlegear-p-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/vpvHfWl.png"]
+	},
+	{
+		"name": "Berserker Battle Axe",
+		"link": "http://aqwwiki.wikidot.com/berserker-battle-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/WccIhn6.png"]
+	},
+	{
+		"name": "Bio Berserker Axe",
+		"link": "http://aqwwiki.wikidot.com/bio-berserker-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/bio-berserker-axe/BBA.png"]
+	},
+	{
+		"name": "Blinding Axe of Destiny Lite",
+		"link": "http://aqwwiki.wikidot.com/blinding-axe-of-destiny-lite",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/Awuc2em.png", "https://i.imgur.com/oBjeRoN.png"]
+	},
+	{
+		"name": "Blinding Axe of Purity",
+		"link": "http://aqwwiki.wikidot.com/blinding-axe-of-purity",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://i.imgur.com/Mkxi32a.png"]
+	},
+	{
+		"name": "Blinding Edge of Obsidian (AC)",
+		"link": "http://aqwwiki.wikidot.com/blinding-edge-of-obsidian-ac",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/LmSGajD.png", "http://i.imgur.com/MUoOM56.png"]
+	},
+	{
+		"name": "Blinding Hurp of Derpity",
+		"link": "http://aqwwiki.wikidot.com/blinding-hurp-of-derpity",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/blinding-hurp-of-derpity/BlindingHurpofDerpity.png"
+		]
+	},
+	{
+		"name": "Blinding LEDestiny",
+		"link": "http://aqwwiki.wikidot.com/blinding-ledestiny",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/blinding-ledestiny/BlindingLEDestiny.png"]
+	},
+	{
+		"name": "Blinding Light of Chaos",
+		"link": "http://aqwwiki.wikidot.com/blinding-light-of-chaos",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/legendlarge.png"
+		],
+		"image": ["http://i.imgur.com/PHVNuyL.png", "http://i.imgur.com/dLjZuM6.png"]
+	},
+	{
+		"name": "Blinding Light of Destiny (Axe)",
+		"link": "http://aqwwiki.wikidot.com/blinding-light-of-destiny-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/RanNxu8.png", "http://i.imgur.com/YubG6YC.png"]
+	},
+	{
+		"name": "Blinding Light of Destiny Handle",
+		"link": "http://aqwwiki.wikidot.com/blinding-light-of-destiny-handle",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/9z5VXk1.png"]
+	},
+	{
+		"name": "Blinding Pink of Destiny!",
+		"link": "http://aqwwiki.wikidot.com/blinding-pink-of-destiny",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/blinding-pink-of-destiny/BlindingPinkofDestiny.png"
+		]
+	},
+	{
+		"name": "Blood Axe of the Underworld",
+		"link": "http://aqwwiki.wikidot.com/blood-axe-of-the-underworld",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/blood-axe-of-the-underworld/BloodAxeoftheUnderworld.png"
+		]
+	},
+	{
+		"name": "Blood Legion Battle-Axe",
+		"link": "http://aqwwiki.wikidot.com/blood-legion-battle-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/Mcal9d0.png"]
+	},
+	{
+		"name": "Blood Lord's Wrath",
+		"link": "http://aqwwiki.wikidot.com/blood-lord-s-wrath",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/hhrz3z6.png"]
+	},
+	{
+		"name": "Blue War Guitar",
+		"link": "http://aqwwiki.wikidot.com/blue-war-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/lXKd1Rj.png"]
+	},
+	{
+		"name": "Boarding Axe",
+		"link": "http://aqwwiki.wikidot.com/boarding-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/boarding-axe/BoardingAxe.png"]
+	},
+	{
+		"name": "Boneaxe of Gorgorath",
+		"link": "http://aqwwiki.wikidot.com/boneaxe-of-gorgorath",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/x6S9rwV.png"]
+	},
+	{
+		"name": "Botanical Nightmare",
+		"link": "http://aqwwiki.wikidot.com/botanical-nightmare",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/botanical-nightmare/BN.png"]
+	},
+	{
+		"name": "Bright Axe of Light",
+		"link": "http://aqwwiki.wikidot.com/bright-axe-of-light",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/sZ9UEgt.png"]
+	},
+	{
+		"name": "Bright Paladin's Axe",
+		"link": "http://aqwwiki.wikidot.com/bright-paladin-s-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/BFKmo9D.jpg"]
+	},
+	{
+		"name": "Bright Poleaxe of Light",
+		"link": "http://aqwwiki.wikidot.com/bright-poleaxe-of-light",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/XiUArQM.png"]
+	},
+	{
+		"name": "Bronze Crusher",
+		"link": "http://aqwwiki.wikidot.com/bronze-crusher",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/bronze-crusher/BronzeCrusher.png"]
+	},
+	{
+		"name": "Burning Light Of Destruction",
+		"link": "http://aqwwiki.wikidot.com/burning-light-of-destruction",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/burning-light-of-destruction/BurningLightofDestruction.png",
+			"http://aqwwiki.wdfiles.com/local--files/burning-light-of-destruction/BurningLightofDestructionAnim.png"
+		]
+	},
+	{
+		"name": "Celestial Bard's Ukulele",
+		"link": "http://aqwwiki.wikidot.com/celestial-bard-s-ukulele",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/hfPmjQb.png"]
+	},
+	{
+		"name": "Celestial Sand Axe",
+		"link": "http://aqwwiki.wikidot.com/celestial-sand-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/celestial-sand-axe/CelestialSandAxe.png"]
+	},
+	{
+		"name": "Chainbreaker Axe (AC)",
+		"link": "http://aqwwiki.wikidot.com/chainbreaker-axe-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/4qkTeDG.png"]
+	},
+	{
+		"name": "Champion Ender of Nulgath",
+		"link": "http://aqwwiki.wikidot.com/champion-ender-of-nulgath",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/oSsJp9d.png"]
+	},
+	{
+		"name": "Chaos Crystal Axe",
+		"link": "http://aqwwiki.wikidot.com/chaos-crystal-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/8TDb89v.png"]
+	},
+	{
+		"name": "Chaos Naval Guitar",
+		"link": "http://aqwwiki.wikidot.com/chaos-naval-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/chaos-naval-guitar/ChaosNavalGuitar.png"]
+	},
+	{
+		"name": "Chocolate Bite of Destiny",
+		"link": "http://aqwwiki.wikidot.com/chocolate-bite-of-destiny",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/5dXWtEn.png"]
+	},
+	{
+		"name": "Chromium Void Axe",
+		"link": "http://aqwwiki.wikidot.com/chromium-void-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/Z8IsCJl.png"]
+	},
+	{
+		"name": "Chromium Void Chrono Axe",
+		"link": "http://aqwwiki.wikidot.com/chromium-void-chrono-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/rfD8HGk.png"]
+	},
+	{
+		"name": "Chrono Light of Destiny",
+		"link": "http://aqwwiki.wikidot.com/chrono-light-of-destiny",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/T9sXN90.png", "https://i.imgur.com/7NWrynR.png"]
+	},
+	{
+		"name": "Chrono Naval Guitar",
+		"link": "http://aqwwiki.wikidot.com/chrono-naval-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/chrono-naval-guitar/ChronoNavalGuitar.png"]
+	},
+	{
+		"name": "Chrono Paladin's Battle-Axe",
+		"link": "http://aqwwiki.wikidot.com/chrono-paladin-s-battle-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/VagBsfa.png", "https://i.imgur.com/3G7jVxT.png"]
+	},
+	{
+		"name": "Chrono Paladin's Poleaxe",
+		"link": "http://aqwwiki.wikidot.com/chrono-paladin-s-poleaxe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/r5mRIfA.png", "https://i.imgur.com/uwExBmp.png"]
+	},
+	{
+		"name": "Chrono Wanderer's Poleaxe",
+		"link": "http://aqwwiki.wikidot.com/chrono-wanderer-s-poleaxe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/j17EVvF.png", "https://i.imgur.com/QrTQkoh.png"]
+	},
+	{
+		"name": "Chrono War Guitar",
+		"link": "http://aqwwiki.wikidot.com/chrono-war-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/dj2KJmd.png"]
+	},
+	{
+		"name": "ChronoReaper Axe",
+		"link": "http://aqwwiki.wikidot.com/chronoreaper-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/HXMbHsJ.png"]
+	},
+	{
+		"name": "ChronoStriker PoleAxe (AC)",
+		"link": "http://aqwwiki.wikidot.com/chronostriker-poleaxe-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/zZv2Fgz.png"]
+	},
+	{
+		"name": "ChronoStriker PoleAxe (Special)",
+		"link": "http://aqwwiki.wikidot.com/chronostriker-poleaxe-special",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/zZv2Fgz.png"]
+	},
+	{
+		"name": "Combat Soulreaper of Nulgath",
+		"link": "http://aqwwiki.wikidot.com/combat-soulreaper-of-nulgath",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/legendlarge.png"
+		],
+		"image": ["http://imgur.com/0zDw70q.png", "http://i.imgur.com/QtKR1y5.png"]
+	},
+	{
+		"name": "Copper Void Axe",
+		"link": "http://aqwwiki.wikidot.com/copper-void-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/5ymA2vr.png"]
+	},
+	{
+		"name": "Copper Void Chrono Axe",
+		"link": "http://aqwwiki.wikidot.com/copper-void-chrono-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/78pFS98.png"]
+	},
+	{
+		"name": "Corrupt Nightbranch",
+		"link": "http://aqwwiki.wikidot.com/corrupt-nightbranch",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/corrupt-nightbranch/CorruptNightbranch.png"]
+	},
+	{
+		"name": "Crimson DeathKnight's Axe",
+		"link": "http://aqwwiki.wikidot.com/crimson-deathknight-s-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/vCidwrb.png"]
+	},
+	{
+		"name": "Crimson Knight Commander Axe",
+		"link": "http://aqwwiki.wikidot.com/crimson-knight-commander-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/crimson-knight-commander-axe/CrimsonKnightCommanderAxe.png"
+		]
+	},
+	{
+		"name": "Cyber Dreadhaven Mace",
+		"link": "http://aqwwiki.wikidot.com/cyber-dreadhaven-mace",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://i.imgur.com/nzpmj24.png", "http://i.imgur.com/iOvFQkz.png"]
+	},
+	{
+		"name": "Cyber PoleAxe",
+		"link": "http://aqwwiki.wikidot.com/cyber-poleaxe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://imgur.com/NBjR2Mj.png"]
+	},
+	{
+		"name": "Cyber Void Light of Destiny",
+		"link": "http://aqwwiki.wikidot.com/cyber-void-light-of-destiny",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/QF6YKdP.png", "https://i.imgur.com/IrzHmhE.png"]
+	},
+	{
+		"name": "Dark Avenger's Axe (0 AC)",
+		"link": "http://aqwwiki.wikidot.com/dark-avenger-s-axe-0-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://i.imgur.com/YLlqaAx.png"]
+	},
+	{
+		"name": "Dark Avenger's Axe (AC)",
+		"link": "http://aqwwiki.wikidot.com/dark-avenger-s-axe-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/YLlqaAx.png"]
+	},
+	{
+		"name": "Dark Avenger's Runed Axe (0 AC)",
+		"link": "http://aqwwiki.wikidot.com/dark-avenger-s-runed-axe-0-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://i.imgur.com/D4aGYeF.png"]
+	},
+	{
+		"name": "Dark Avenger's Runed Axe (AC)",
+		"link": "http://aqwwiki.wikidot.com/dark-avenger-s-runed-axe-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/D4aGYeF.png"]
+	},
+	{
+		"name": "Dark Botanical Nightmare",
+		"link": "http://aqwwiki.wikidot.com/dark-botanical-nightmare",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/dark-botanical-nightmare/DBN.png"]
+	},
+	{
+		"name": "Dark Knight Commander Axe",
+		"link": "http://aqwwiki.wikidot.com/dark-knight-commander-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/dark-knight-commander-axe/DarkKnightCommanderAxe.png"
+		]
+	},
+	{
+		"name": "Dark Metal Necro Guitar",
+		"link": "http://aqwwiki.wikidot.com/dark-metal-necro-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/aLGurxA.png"]
+	},
+	{
+		"name": "Deadtech Lich Hatchet",
+		"link": "http://aqwwiki.wikidot.com/deadtech-lich-hatchet",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/tcSaWcX.png", "https://i.imgur.com/0gAy8Gt.png"]
+	},
+	{
+		"name": "Deadtech Necromancer Hatchet",
+		"link": "http://aqwwiki.wikidot.com/deadtech-necromancer-hatchet",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/XYkOQS4.png", "https://i.imgur.com/tB7VsGZ.png"]
+	},
+	{
+		"name": "DeathEater's Pole (0 AC)",
+		"link": "http://aqwwiki.wikidot.com/deatheater-s-pole-0-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://i.imgur.com/wM1KzOD.png"]
+	},
+	{
+		"name": "DeathEater's Pole (AC)",
+		"link": "http://aqwwiki.wikidot.com/deatheater-s-pole-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/wM1KzOD.png"]
+	},
+	{
+		"name": "Dene's Axe",
+		"link": "http://aqwwiki.wikidot.com/dene-s-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/RrombIy.png"]
+	},
+	{
+		"name": "Dire Wolf's Fang Axe",
+		"link": "http://aqwwiki.wikidot.com/dire-wolf-s-fang-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/dire-wolf-s-fang-axe/DireWolf'sFangAxe.png"]
+	},
+	{
+		"name": "Doom Keytar",
+		"link": "http://aqwwiki.wikidot.com/doom-keytar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/uKOV1rM.png"]
+	},
+	{
+		"name": "Doom War Guitar",
+		"link": "http://aqwwiki.wikidot.com/doom-war-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/hXdgSG8.png"]
+	},
+	{
+		"name": "DOOMED Monster Lord Axe",
+		"link": "http://aqwwiki.wikidot.com/doomed-monster-lord-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/yQEPnd9.png"]
+	},
+	{
+		"name": "Dragon Axe",
+		"link": "http://aqwwiki.wikidot.com/dragon-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/dragon-axe/DragonAxe.png"]
+	},
+	{
+		"name": "Dragon Crown Axe",
+		"link": "http://aqwwiki.wikidot.com/dragon-crown-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/gLVCkOQ.png"]
+	},
+	{
+		"name": "Dragon Crown BroadAxe",
+		"link": "http://aqwwiki.wikidot.com/dragon-crown-broadaxe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/dvVxRi3.png"]
+	},
+	{
+		"name": "Dragon of Time Cleaver",
+		"link": "http://aqwwiki.wikidot.com/dragon-of-time-cleaver",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/CZ22ifn.png"]
+	},
+	{
+		"name": "DragonROARS Guitar",
+		"link": "http://aqwwiki.wikidot.com/dragonroars-guitar",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/yKqdAFT.png"]
+	},
+	{
+		"name": "Dread Axe of Destruction",
+		"link": "http://aqwwiki.wikidot.com/dread-axe-of-destruction",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/BB7uC18.png"]
+	},
+	{
+		"name": "Dual Ended Void Walker Axe",
+		"link": "http://aqwwiki.wikidot.com/dual-ended-void-walker-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/5dUmLcU.png"]
+	},
+	{
+		"name": "Dual Hollowborn Shadows of Fate",
+		"link": "http://aqwwiki.wikidot.com/dual-hollowborn-shadows-of-fate",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/x9h0U2d.png", "https://imgur.com/3leWLiL.png"]
+	},
+	{
+		"name": "Ecto Enforcer Axe",
+		"link": "http://aqwwiki.wikidot.com/ecto-enforcer-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/5DxzdED.png"]
+	},
+	{
+		"name": "Edgy Punk Attack Guitar",
+		"link": "http://aqwwiki.wikidot.com/edgy-punk-attack-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/nxz2eB5.png"]
+	},
+	{
+		"name": "Eerie Underworld General Axe",
+		"link": "http://aqwwiki.wikidot.com/eerie-underworld-general-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://i.imgur.com/HGTbbjj.png", "https://i.imgur.com/ErIiaQn.png"]
+	},
+	{
+		"name": "Elegant Necro Sickle",
+		"link": "http://aqwwiki.wikidot.com/elegant-necro-sickle",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/EQDhnrL.png"]
+	},
+	{
+		"name": "Enchanted Celestial Bard Ukulele",
+		"link": "http://aqwwiki.wikidot.com/enchanted-celestial-bard-ukulele",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/bS9Tja0.png"]
+	},
+	{
+		"name": "Enchanted Mountaineer's Ice Axe",
+		"link": "http://aqwwiki.wikidot.com/enchanted-mountaineer-s-ice-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://imgur.com/1CzXPIR.png"]
+	},
+	{
+		"name": "Enchanted Platinum Axe of Destiny",
+		"link": "http://aqwwiki.wikidot.com/enchanted-platinum-axe-of-destiny",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/legendlarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://i.imgur.com/ITiawRO.png", "http://i.imgur.com/jsYXsUz.png"]
+	},
+	{
+		"name": "Enchanted ShadowCore Attack Guitar",
+		"link": "http://aqwwiki.wikidot.com/enchanted-shadowcore-attack-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/legendlarge.png"
+		],
+		"image": ["https://imgur.com/dDjpa4f.png"]
+	},
+	{
+		"name": "Enchanted ShadowCore Guitar",
+		"link": "http://aqwwiki.wikidot.com/enchanted-shadowcore-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/legendlarge.png"
+		],
+		"image": ["https://imgur.com/hY2Bx18.png"]
+	},
+	{
+		"name": "Enchanted Shadowsong Attack Guitar",
+		"link": "http://aqwwiki.wikidot.com/enchanted-shadowsong-attack-guitar",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/j1594Yo.png"]
+	},
+	{
+		"name": "Enchanted Shadowsong Guitar",
+		"link": "http://aqwwiki.wikidot.com/enchanted-shadowsong-guitar",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/RWQlQmE.png"]
+	},
+	{
+		"name": "Enchanted Void Axe",
+		"link": "http://aqwwiki.wikidot.com/enchanted-void-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/gAXJlYj.png", "https://i.imgur.com/aEAjde2.png"]
+	},
+	{
+		"name": "Enchanted Void Dual-Bladed Axe",
+		"link": "http://aqwwiki.wikidot.com/enchanted-void-dual-bladed-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/89k6ZOQ.png", "https://i.imgur.com/wDMGi35.png"]
+	},
+	{
+		"name": "Epic Frost Axe",
+		"link": "http://aqwwiki.wikidot.com/epic-frost-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://i.imgur.com/QWSXIWR.png"]
+	},
+	{
+		"name": "Eternal Juggernaut Axe",
+		"link": "http://aqwwiki.wikidot.com/eternal-juggernaut-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/AnbdrDo.png"]
+	},
+	{
+		"name": "Eternal Juggernaut Poleaxe",
+		"link": "http://aqwwiki.wikidot.com/eternal-juggernaut-poleaxe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/X2nq0DE.png"]
+	},
+	{
+		"name": "Evolved Agony Chain",
+		"link": "http://aqwwiki.wikidot.com/evolved-agony-chain",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/28UnNN3.png", "http://i.imgur.com/26QTU0v.png"]
+	},
+	{
+		"name": "Evolved Warlord Axe",
+		"link": "http://aqwwiki.wikidot.com/evolved-warlord-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://i.imgur.com/fvpTGCx.png"]
+	},
+	{
+		"name": "Executioner's Judgement",
+		"link": "http://aqwwiki.wikidot.com/executioner-s-judgement",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/pjjBrje.png"]
+	},
+	{
+		"name": "Fabled Love of Destiny",
+		"link": "http://aqwwiki.wikidot.com/fabled-love-of-destiny",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["http://i.imgur.com/LfjbXRc.png"]
+	},
+	{
+		"name": "Fallenfire Axe",
+		"link": "http://aqwwiki.wikidot.com/fallenfire-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/fallenfire-axe/FallenfireAxe.png"]
+	},
+	{
+		"name": "Festive Light of Destiny (0 AC)",
+		"link": "http://aqwwiki.wikidot.com/festive-light-of-destiny-0-ac",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": [
+			"https://i.imgur.com/d4jt214.gif",
+			"https://i.imgur.com/IhuKRtP.png",
+			"http://i.imgur.com/zdm2ZWO.png"
+		]
+	},
+	{
+		"name": "Festive Light of Destiny (AC)",
+		"link": "http://aqwwiki.wikidot.com/festive-light-of-destiny-ac",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": [
+			"https://i.imgur.com/d4jt214.gif",
+			"https://i.imgur.com/IhuKRtP.png",
+			"http://i.imgur.com/zdm2ZWO.png"
+		]
+	},
+	{
+		"name": "Fieldy's Bass",
+		"link": "http://aqwwiki.wikidot.com/fieldy-s-bass",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/qTfcljG.png"]
+	},
+	{
+		"name": "Flame Dragon Axe",
+		"link": "http://aqwwiki.wikidot.com/flame-dragon-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://i.imgur.com/fE7cWsS.png"]
+	},
+	{
+		"name": "Flaming Naval Guitar",
+		"link": "http://aqwwiki.wikidot.com/flaming-naval-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/flaming-naval-guitar/FNG.png"]
+	},
+	{
+		"name": "Formal Light of Destiny",
+		"link": "http://aqwwiki.wikidot.com/formal-light-of-destiny",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/formal-light-of-destiny/FLoDN.png",
+			"http://aqwwiki.wdfiles.com/local--files/formal-light-of-destiny/FLoDA.png"
+		]
+	},
+	{
+		"name": "Frightening Broad Axe",
+		"link": "http://aqwwiki.wikidot.com/frightening-broad-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/FMjNGbA.png", "https://i.imgur.com/8oSzmoI.png"]
+	},
+	{
+		"name": "Frost Dracolich Guard's Axe",
+		"link": "http://aqwwiki.wikidot.com/frost-dracolich-guard-s-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://i.imgur.com/gQPHxCG.png"]
+	},
+	{
+		"name": "Frostborn Throwing Axe",
+		"link": "http://aqwwiki.wikidot.com/frostborn-throwing-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/psneaRY.png"]
+	},
+	{
+		"name": "Frostborn Warlord's BattleAxe",
+		"link": "http://aqwwiki.wikidot.com/frostborn-warlord-s-battleaxe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/OcYFG6Y.png"]
+	},
+	{
+		"name": "Frostlorn Axe",
+		"link": "http://aqwwiki.wikidot.com/frostlorn-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://imgur.com/OvFYExs.png"]
+	},
+	{
+		"name": "Frostsworn Ice Axe (AC)",
+		"link": "http://aqwwiki.wikidot.com/frostsworn-ice-axe-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://imgur.com/Hn0O3os.png"]
+	},
+	{
+		"name": "Frozen Aurora Axe",
+		"link": "http://aqwwiki.wikidot.com/frozen-aurora-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/aWVEA5S.png"]
+	},
+	{
+		"name": "Frozen Axe",
+		"link": "http://aqwwiki.wikidot.com/frozen-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/vd1uco7.png"]
+	},
+	{
+		"name": "Frozen Light of Destiny",
+		"link": "http://aqwwiki.wikidot.com/frozen-light-of-destiny",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://i.imgur.com/2CC5uy6.png"]
+	},
+	{
+		"name": "FrozenShard Axe",
+		"link": "http://aqwwiki.wikidot.com/frozenshard-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": [
+			"https://i.imgur.com/3Cf1GEV.png",
+			"https://i.imgur.com/Df2o2Mz.png",
+			"https://i.imgur.com/uRFdglP.png",
+			"https://i.imgur.com/W3Dn9HN.png"
+		]
+	},
+	{
+		"name": "Furious Dragon Guitar",
+		"link": "http://aqwwiki.wikidot.com/furious-dragon-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/furious-dragon-guitar/FDG.png"]
+	},
+	{
+		"name": "Galaxy Naval Guitar",
+		"link": "http://aqwwiki.wikidot.com/galaxy-naval-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/galaxy-naval-guitar/GalaxyNavalGuitar.png"]
+	},
+	{
+		"name": "Giant VoidWarlord Axe",
+		"link": "http://aqwwiki.wikidot.com/giant-voidwarlord-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/giant-voidwarlord-axe/GiantVoidWarlordAxe.png"
+		]
+	},
+	{
+		"name": "Gilded Axe of Honor",
+		"link": "http://aqwwiki.wikidot.com/gilded-axe-of-honor",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://i.imgur.com/MzoWZ0z.png"]
+	},
+	{
+		"name": "Godly Golden Dragon Axe",
+		"link": "http://aqwwiki.wikidot.com/godly-golden-dragon-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/legendlarge.png"
+		],
+		"image": ["http://i.imgur.com/xmeKpRe.png", "http://i.imgur.com/gh1bm16.png"]
+	},
+	{
+		"name": "Gold Exalted Paladin Axe",
+		"link": "http://aqwwiki.wikidot.com/gold-exalted-paladin-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/DyZdyKY.png"]
+	},
+	{
+		"name": "Golden Leonides Axe (0 AC)",
+		"link": "http://aqwwiki.wikidot.com/golden-leonides-axe-0-ac",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/AcxkbAE.png", "https://i.imgur.com/pth4gD7.png"]
+	},
+	{
+		"name": "Golden Leonides Axe (AC)",
+		"link": "http://aqwwiki.wikidot.com/golden-leonides-axe-ac",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/AcxkbAE.png", "https://i.imgur.com/pth4gD7.png"]
+	},
+	{
+		"name": "Golden Monster Lord Axe",
+		"link": "http://aqwwiki.wikidot.com/golden-monster-lord-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/NChPm6f.png"]
+	},
+	{
+		"name": "Golden Throwing Axe",
+		"link": "http://aqwwiki.wikidot.com/golden-throwing-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/RbbRKus.png"]
+	},
+	{
+		"name": "Golden Warlord's BattleAxe",
+		"link": "http://aqwwiki.wikidot.com/golden-warlord-s-battleaxe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/JJp7IOZ.png"]
+	},
+	{
+		"name": "GrandMaster Enchanted Axe",
+		"link": "http://aqwwiki.wikidot.com/grandmaster-enchanted-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/YGSpy1n.png", "https://imgur.com/PdZmCF8.png"]
+	},
+	{
+		"name": "Graves End Axe",
+		"link": "http://aqwwiki.wikidot.com/graves-end-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://i.imgur.com/Fq5QPpT.png", "https://i.imgur.com/XuQgKhD.png"]
+	},
+	{
+		"name": "Green War Guitar",
+		"link": "http://aqwwiki.wikidot.com/green-war-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/pYfo62G.png"]
+	},
+	{
+		"name": "Grim Axe of Shadows",
+		"link": "http://aqwwiki.wikidot.com/grim-axe-of-shadows",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://imgur.com/JBvvvZq.png"]
+	},
+	{
+		"name": "Grim Poleaxe of Shadows",
+		"link": "http://aqwwiki.wikidot.com/grim-poleaxe-of-shadows",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://imgur.com/zsuj86a.png"]
+	},
+	{
+		"name": "GrimBlight of Destiny",
+		"link": "http://aqwwiki.wikidot.com/grimblight-of-destiny",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": [
+			"http://i.imgur.com/KdRI72A.png",
+			"http://i.imgur.com/gXWr4DB.png",
+			"http://i.imgur.com/zdm2ZWO.png"
+		]
+	},
+	{
+		"name": "Grumble's Curse",
+		"link": "http://aqwwiki.wikidot.com/grumble-s-curse",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": [
+			"https://i.imgur.com/lxNKzVq.png",
+			"http://aqwwiki.wdfiles.com/local--files/grumble-s-curse/Grumble'sCurseO.png"
+		]
+	},
+	{
+		"name": "Harvest Sickle",
+		"link": "http://aqwwiki.wikidot.com/harvest-sickle",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/DhA6U9M.png"]
+	},
+	{
+		"name": "Head's Guitar",
+		"link": "http://aqwwiki.wikidot.com/head-s-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/7z7Vbir.png"]
+	},
+	{
+		"name": "Heart Naval Guitar",
+		"link": "http://aqwwiki.wikidot.com/heart-naval-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/heart-naval-guitar/HeartNavalGuitar.png"]
+	},
+	{
+		"name": "Heavy Metal Necromancer Guitar",
+		"link": "http://aqwwiki.wikidot.com/heavy-metal-necromancer-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/nnmYSqD.png"]
+	},
+	{
+		"name": "HighLord's BattleAxe of Destiny",
+		"link": "http://aqwwiki.wikidot.com/highlord-s-battleaxe-of-destiny",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://i.imgur.com/9K9kYw4.png"]
+	},
+	{
+		"name": "Hoarfrost Hatchet",
+		"link": "http://aqwwiki.wikidot.com/hoarfrost-hatchet",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/hoarfrost-hatchet/HoarfrostHatchet.png"]
+	},
+	{
+		"name": "Hollowborn Evoker's Axe (0 AC)",
+		"link": "http://aqwwiki.wikidot.com/hollowborn-evoker-s-axe-0-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/bS4kXb8.png", "https://i.imgur.com/9UioslH.png"]
+	},
+	{
+		"name": "Hollowborn Evoker's Axe (AC)",
+		"link": "http://aqwwiki.wikidot.com/hollowborn-evoker-s-axe-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/bS4kXb8.png", "https://i.imgur.com/9UioslH.png"]
+	},
+	{
+		"name": "Hollowborn Executioner's Axe",
+		"link": "http://aqwwiki.wikidot.com/hollowborn-executioner-s-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/3FzxEOW.png", "https://i.imgur.com/PCYq6SP.png"]
+	},
+	{
+		"name": "Hollowborn Reaper's Kama",
+		"link": "http://aqwwiki.wikidot.com/hollowborn-reaper-s-kama",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/n3togRM.png"]
+	},
+	{
+		"name": "Hollowborn Shadow of Fate",
+		"link": "http://aqwwiki.wikidot.com/hollowborn-shadow-of-fate",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/xULPXny.png"]
+	},
+	{
+		"name": "Hollowborn Trainer's Axe",
+		"link": "http://aqwwiki.wikidot.com/hollowborn-trainer-s-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/LDP4YLt.png"]
+	},
+	{
+		"name": "Honor of Swordhaven",
+		"link": "http://aqwwiki.wikidot.com/honor-of-swordhaven",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://imgur.com/CNHO3ZD.png"]
+	},
+	{
+		"name": "Horror Saw",
+		"link": "http://aqwwiki.wikidot.com/horror-saw",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/e6sMomA.png"]
+	},
+	{
+		"name": "IceBreaker Axe",
+		"link": "http://aqwwiki.wikidot.com/icebreaker-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/icebreaker-axe/IA.png"]
+	},
+	{
+		"name": "Icy Frostlorn Axe",
+		"link": "http://aqwwiki.wikidot.com/icy-frostlorn-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/49X3mbg.png"]
+	},
+	{
+		"name": "Icy Naval Guitar",
+		"link": "http://aqwwiki.wikidot.com/icy-naval-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/icy-naval-guitar/ING.png"]
+	},
+	{
+		"name": "Ignus Axe (0 AC)",
+		"link": "http://aqwwiki.wikidot.com/ignus-axe-0-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://i.imgur.com/ZITpaGC.png"]
+	},
+	{
+		"name": "Ignus Axe (AC)",
+		"link": "http://aqwwiki.wikidot.com/ignus-axe-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/ZITpaGC.png"]
+	},
+	{
+		"name": "Infinity Titan Space Axe",
+		"link": "http://aqwwiki.wikidot.com/infinity-titan-space-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/s9KxG9B.png", "https://i.imgur.com/eZKMTQj.png"]
+	},
+	{
+		"name": "Jerry's Guitar",
+		"link": "http://aqwwiki.wikidot.com/jerry-s-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/3EOQff2.png"]
+	},
+	{
+		"name": "Lavastorm Lord Scythe",
+		"link": "http://aqwwiki.wikidot.com/lavastorm-lord-scythe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/lavastorm-lord-scythe/LavastormLordScytheN.png",
+			"http://aqwwiki.wdfiles.com/local--files/lavastorm-lord-scythe/LavastormLordScytheO.png"
+		]
+	},
+	{
+		"name": "Learning to Fly",
+		"link": "http://aqwwiki.wikidot.com/learning-to-fly",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/Mwds4uN.png"]
+	},
+	{
+		"name": "Legion Light of Destiny Axe",
+		"link": "http://aqwwiki.wikidot.com/legion-light-of-destiny-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://i.imgur.com/MA49Bqk.png", "http://i.imgur.com/AoF6rwy.png"]
+	},
+	{
+		"name": "Legion Naval Guitar",
+		"link": "http://aqwwiki.wikidot.com/legion-naval-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/legion-naval-guitar/LegionNavalGuitar.png"]
+	},
+	{
+		"name": "Legion Soul Splitter",
+		"link": "http://aqwwiki.wikidot.com/legion-soul-splitter",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/2wIkPhh.png"]
+	},
+	{
+		"name": "Legion Viking Big Axe",
+		"link": "http://aqwwiki.wikidot.com/legion-viking-big-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/lMW1X5F.png"]
+	},
+	{
+		"name": "Legion Viking Hatchet",
+		"link": "http://aqwwiki.wikidot.com/legion-viking-hatchet",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/uMCfMuI.png"]
+	},
+	{
+		"name": "Leviathanius' Golden Axe",
+		"link": "http://aqwwiki.wikidot.com/leviathanius-golden-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/Fv4jdeH.png"]
+	},
+	{
+		"name": "Life Giver Axe",
+		"link": "http://aqwwiki.wikidot.com/life-giver-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/life-giver-axe/LifeGiverAxe.png"]
+	},
+	{
+		"name": "Light of Digital Destiny",
+		"link": "http://aqwwiki.wikidot.com/light-of-digital-destiny",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/light-of-digital-destiny/LightofDigitalDestiny.png"
+		]
+	},
+	{
+		"name": "Lovely Axe",
+		"link": "http://aqwwiki.wikidot.com/lovely-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/lovely-axe/LA.png"]
+	},
+	{
+		"name": "Maraud of the Minotaur (Axe) (AC)",
+		"link": "http://aqwwiki.wikidot.com/maraud-of-the-minotaur-axe-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/maraud-of-the-minotaur-axe-ac/MaraudoftheMinotaur.png"
+		]
+	},
+	{
+		"name": "Melee Mosher Axe",
+		"link": "http://aqwwiki.wikidot.com/melee-mosher-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/1hzaotA.png"]
+	},
+	{
+		"name": "Mike's Bass",
+		"link": "http://aqwwiki.wikidot.com/mike-s-bass",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/iEl2uqg.png"]
+	},
+	{
+		"name": "Mikey's Axe",
+		"link": "http://aqwwiki.wikidot.com/mikey-s-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/mikey-s-axe/Mikey'sAxe.png"]
+	},
+	{
+		"name": "Mi's Guitar",
+		"link": "http://aqwwiki.wikidot.com/mi-s-guitar",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/ooatvDy.png"]
+	},
+	{
+		"name": "Mosh Pit Metal Guitar",
+		"link": "http://aqwwiki.wikidot.com/mosh-pit-metal-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/4JjfGOH.png", "https://i.imgur.com/JtU77mR.png"]
+	},
+	{
+		"name": "Mudluk Metal Axe",
+		"link": "http://aqwwiki.wikidot.com/mudluk-metal-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/mudluk-metal-axe/MudlukMetalAxe.png"]
+	},
+	{
+		"name": "Mudluk Monster Axe",
+		"link": "http://aqwwiki.wikidot.com/mudluk-monster-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/mudluk-monster-axe/MudlukMonsterAxe.png"]
+	},
+	{
+		"name": "Munky's Guitar",
+		"link": "http://aqwwiki.wikidot.com/munky-s-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/IQ9jEkd.png"]
+	},
+	{
+		"name": "Near",
+		"link": "http://aqwwiki.wikidot.com/near",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/sFi3mby.png"]
+	},
+	{
+		"name": "Nightlocke War Axe",
+		"link": "http://aqwwiki.wikidot.com/nightlocke-war-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/ykrnBdc.png", "http://i.imgur.com/GytGUWp.png"]
+	},
+	{
+		"name": "Nightmare Axe",
+		"link": "http://aqwwiki.wikidot.com/nightmare-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/nightmare-axe/NightmareAxe.png"]
+	},
+	{
+		"name": "Nightshock Axe",
+		"link": "http://aqwwiki.wikidot.com/nightshock-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/nightshock-axe/NightshockAxe.png",
+			"http://aqwwiki.wdfiles.com/local--files/nightshock-axe/NightshockAxeA.png"
+		]
+	},
+	{
+		"name": "Northlands Defender Axe",
+		"link": "http://aqwwiki.wikidot.com/northlands-defender-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://i.imgur.com/pIGqcdR.png"]
+	},
+	{
+		"name": "Oathbreaker (0 AC)",
+		"link": "http://aqwwiki.wikidot.com/oathbreaker-0-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://imgur.com/xV5k5fT.png", "https://imgur.com/68F5VNb.png"]
+	},
+	{
+		"name": "Oathbreaker (AC)",
+		"link": "http://aqwwiki.wikidot.com/oathbreaker-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://imgur.com/xV5k5fT.png", "https://imgur.com/68F5VNb.png"]
+	},
+	{
+		"name": "Obsidian Light of Destiny",
+		"link": "http://aqwwiki.wikidot.com/obsidian-light-of-destiny",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/TU71Ttc.png", "https://i.imgur.com/olMbfBn.png"]
+	},
+	{
+		"name": "Obsidian Paladin Naval Axe",
+		"link": "http://aqwwiki.wikidot.com/obsidian-paladin-naval-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/OOgf0QV.png"]
+	},
+	{
+		"name": "One Eyed Axe",
+		"link": "http://aqwwiki.wikidot.com/one-eyed-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/one-eyed-axe/OneEyedAxe.png"]
+	},
+	{
+		"name": "Paladin's Pride",
+		"link": "http://aqwwiki.wikidot.com/paladin-s-pride",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://i.imgur.com/ISO9bQ6.png"]
+	},
+	{
+		"name": "Permafrost Axe (0 AC)",
+		"link": "http://aqwwiki.wikidot.com/permafrost-axe-0-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://imgur.com/FPcjeuj.png"]
+	},
+	{
+		"name": "Permafrost Axe (AC)",
+		"link": "http://aqwwiki.wikidot.com/permafrost-axe-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://imgur.com/FPcjeuj.png"]
+	},
+	{
+		"name": "Permafrost Light of Destiny",
+		"link": "http://aqwwiki.wikidot.com/permafrost-light-of-destiny",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://i.imgur.com/eK1qrdE.png"]
+	},
+	{
+		"name": "Phoenix Temper and Revenge",
+		"link": "http://aqwwiki.wikidot.com/phoenix-temper-and-revenge",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/phoenix-temper-and-revenge/PhoenixTemperandRevenge.png"
+		]
+	},
+	{
+		"name": "Platinum DragonAxe of Victory +15",
+		"link": "http://aqwwiki.wikidot.com/platinum-dragonaxe-of-victory-15",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://i.imgur.com/xB56cdn.png"]
+	},
+	{
+		"name": "Platinum Naval Guitar",
+		"link": "http://aqwwiki.wikidot.com/platinum-naval-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/platinum-naval-guitar/PlatinumNavalGuitar.png"
+		]
+	},
+	{
+		"name": "Polar Naval's Hatchet (0 AC)",
+		"link": "http://aqwwiki.wikidot.com/polar-naval-s-hatchet-0-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://i.imgur.com/B6Ndcmn.png"]
+	},
+	{
+		"name": "Polar Naval's Hatchet (AC)",
+		"link": "http://aqwwiki.wikidot.com/polar-naval-s-hatchet-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/B6Ndcmn.png"]
+	},
+	{
+		"name": "Polished Blinding Light of Destiny",
+		"link": "http://aqwwiki.wikidot.com/polished-blinding-light-of-destiny",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/VrF9EJb.png"]
+	},
+	{
+		"name": "Prime Sheer Insanity",
+		"link": "http://aqwwiki.wikidot.com/prime-sheer-insanity",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/o8icLau.png"]
+	},
+	{
+		"name": "Prismatic Axe of Boneshattering",
+		"link": "http://aqwwiki.wikidot.com/prismatic-axe-of-boneshattering",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/prismatic-axe-of-boneshattering/PAoB.png"]
+	},
+	{
+		"name": "Prismatic Soul Render",
+		"link": "http://aqwwiki.wikidot.com/prismatic-soul-render",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/prismatic-soul-render/PrismaticSoulRender.png"
+		]
+	},
+	{
+		"name": "Prismatic War Axe",
+		"link": "http://aqwwiki.wikidot.com/prismatic-war-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/prismatic-war-axe/PWA.png"]
+	},
+	{
+		"name": "Prized Tomahawk of the Revered",
+		"link": "http://aqwwiki.wikidot.com/prized-tomahawk-of-the-revered",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/prized-tomahawk-of-the-revered/PrizedTomahawkoftheRevered.png"
+		]
+	},
+	{
+		"name": "Purified Axe of Nulgath",
+		"link": "http://aqwwiki.wikidot.com/purified-axe-of-nulgath",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/purified-axe-of-nulgath/PurifiedAxeofNulgathN.png",
+			"http://aqwwiki.wdfiles.com/local--files/purified-axe-of-nulgath/PurifiedAxeofNulgathA.png"
+		]
+	},
+	{
+		"name": "Red Naval Guitar",
+		"link": "http://aqwwiki.wikidot.com/red-naval-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/red-naval-guitar/RedNavalGuitar.png"]
+	},
+	{
+		"name": "Red War Guitar",
+		"link": "http://aqwwiki.wikidot.com/red-war-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/lLwi9Ja.png", "https://i.imgur.com/pYfo62G.png"]
+	},
+	{
+		"name": "Rotting Naval Guitar",
+		"link": "http://aqwwiki.wikidot.com/rotting-naval-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/rotting-naval-guitar/RottingNavalGuitar.png"]
+	},
+	{
+		"name": "Rx for Destruction",
+		"link": "http://aqwwiki.wikidot.com/rx-for-destruction",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/rx-for-destruction/Rx.png"]
+	},
+	{
+		"name": "Sanctified Light of Destiny",
+		"link": "http://aqwwiki.wikidot.com/sanctified-light-of-destiny",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/fozb2jy.png"]
+	},
+	{
+		"name": "Scarmiglione Cleaver",
+		"link": "http://aqwwiki.wikidot.com/scarmiglione-cleaver",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/E2IsGSB.jpg"]
+	},
+	{
+		"name": "Scorched Ice Axe",
+		"link": "http://aqwwiki.wikidot.com/scorched-ice-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/scorched-ice-axe/ScorchedIceAxe.png"]
+	},
+	{
+		"name": "Seraph's Axe",
+		"link": "http://aqwwiki.wikidot.com/seraph-s-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/m8Y6INz.png"]
+	},
+	{
+		"name": "Shadow Dragon's Cleaver",
+		"link": "http://aqwwiki.wikidot.com/shadow-dragon-s-cleaver",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/shadow-dragon-s-cleaver/SDCN.png",
+			"http://aqwwiki.wdfiles.com/local--files/shadow-dragon-s-cleaver/SDCO.png"
+		]
+	},
+	{
+		"name": "Shadowed Axe of Corruption",
+		"link": "http://aqwwiki.wikidot.com/shadowed-axe-of-corruption",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://i.imgur.com/Qh2YiMt.png"]
+	},
+	{
+		"name": "Shadowflame Juggernaut Axe",
+		"link": "http://aqwwiki.wikidot.com/shadowflame-juggernaut-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/OJhqtkp.png", "https://i.imgur.com/3vYcKdl.png"]
+	},
+	{
+		"name": "Shadowflame Juggernaut Poleaxe",
+		"link": "http://aqwwiki.wikidot.com/shadowflame-juggernaut-poleaxe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/3vYcKdl.png", "https://i.imgur.com/OJhqtkp.png"]
+	},
+	{
+		"name": "ShadowLight of Doom (0 AC)",
+		"link": "http://aqwwiki.wikidot.com/shadowlight-of-doom-0-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://i.imgur.com/uM1w8mu.png", "https://i.imgur.com/0qs6Srk.png"]
+	},
+	{
+		"name": "ShadowLight of Doom (AC)",
+		"link": "http://aqwwiki.wikidot.com/shadowlight-of-doom-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/uM1w8mu.png", "https://i.imgur.com/0qs6Srk.png"]
+	},
+	{
+		"name": "ShadowReaper Of Doom",
+		"link": "http://aqwwiki.wikidot.com/shadowreaper-of-doom",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://imgur.com/2o2uh4e.png"]
+	},
+	{
+		"name": "ShadowReaper Of Doom (Rare)",
+		"link": "http://aqwwiki.wikidot.com/shadowreaper-of-doom-rare",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://imgur.com/2o2uh4e.png"]
+	},
+	{
+		"name": "Shadowscythe General Axe (AC)",
+		"link": "http://aqwwiki.wikidot.com/shadowscythe-general-axe-ac",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/igheClW.png", "https://i.imgur.com/RtK0k3a.png"]
+	},
+	{
+		"name": "ShadowScythe General Axe (Merge)",
+		"link": "http://aqwwiki.wikidot.com/shadowscythe-general-axe-merge",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/igheClW.png", "https://i.imgur.com/RtK0k3a.png"]
+	},
+	{
+		"name": "Shatterglass Mace",
+		"link": "http://aqwwiki.wikidot.com/shatterglass-mace",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/shatterglass-mace/ShatterglassMace.png"]
+	},
+	{
+		"name": "Sheer Insanity",
+		"link": "http://aqwwiki.wikidot.com/sheer-insanity",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/7D3QSuo.png"]
+	},
+	{
+		"name": "SightBlinder Axe of Nulgath (Axe)",
+		"link": "http://aqwwiki.wikidot.com/sightblinder-axe-of-nulgath-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/sightblinder-axe-of-nulgath-axe/SightBlinderAxeofNulgath.png"
+		]
+	},
+	{
+		"name": "Silver Exalted Paladin Axe",
+		"link": "http://aqwwiki.wikidot.com/silver-exalted-paladin-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/aJZ8MAd.png"]
+	},
+	{
+		"name": "Silver War Guitar",
+		"link": "http://aqwwiki.wikidot.com/silver-war-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/kxkSe9S.png"]
+	},
+	{
+		"name": "Skullbreaker's Axe",
+		"link": "http://aqwwiki.wikidot.com/skullbreaker-s-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/UM5vZJb.png", "https://i.imgur.com/4c0mjiK.png"]
+	},
+	{
+		"name": "Skulled Half-Axe",
+		"link": "http://aqwwiki.wikidot.com/skulled-half-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/skulled-half-axe/SkulledHalf-Axe.png"]
+	},
+	{
+		"name": "Skulls of the Misfortunate",
+		"link": "http://aqwwiki.wikidot.com/skulls-of-the-misfortunate",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/0CC2POX.png"]
+	},
+	{
+		"name": "Snuggle Berserker Axe",
+		"link": "http://aqwwiki.wikidot.com/snuggle-berserker-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://imgur.com/FguFMJS.png"]
+	},
+	{
+		"name": "Soulborne Axe",
+		"link": "http://aqwwiki.wikidot.com/soulborne-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/kwSlfx9.png"]
+	},
+	{
+		"name": "Space-timeless Axe",
+		"link": "http://aqwwiki.wikidot.com/space-timeless-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://imgur.com/VCsEKEr.png", "https://imgur.com/wyXSZzl.png"]
+	},
+	{
+		"name": "Steampunk Hatchet",
+		"link": "http://aqwwiki.wikidot.com/steampunk-hatchet",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["http://i.imgur.com/frl1g5l.png"]
+	},
+	{
+		"name": "Sub-Zero Axe",
+		"link": "http://aqwwiki.wikidot.com/sub-zero-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/legendlarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/avWDUGI.png"]
+	},
+	{
+		"name": "Tattooed Electric Guitar",
+		"link": "http://aqwwiki.wikidot.com/tattooed-electric-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/T7Nea52.png"]
+	},
+	{
+		"name": "Tattooed Electric Guitar Attack",
+		"link": "http://aqwwiki.wikidot.com/tattooed-electric-guitar-attack",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/UEBV72w.png"]
+	},
+	{
+		"name": "Techno Light of Destiny",
+		"link": "http://aqwwiki.wikidot.com/techno-light-of-destiny",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/VgBYjnI.png", "https://i.imgur.com/OtleRH2.png"]
+	},
+	{
+		"name": "Techno Paladin's Battle Axe",
+		"link": "http://aqwwiki.wikidot.com/techno-paladin-s-battle-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/KoRs4mG.png", "https://i.imgur.com/YMA8JvU.png"]
+	},
+	{
+		"name": "Techno Paladin's Poleaxe",
+		"link": "http://aqwwiki.wikidot.com/techno-paladin-s-poleaxe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/XjPs1Tp.png", "https://i.imgur.com/OGkZzNq.png"]
+	},
+	{
+		"name": "Techno Wanderer's Poleaxe",
+		"link": "http://aqwwiki.wikidot.com/techno-wanderer-s-poleaxe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/ik6Ih9n.png", "https://i.imgur.com/9IszbDX.png"]
+	},
+	{
+		"name": "TechnoEdge Axe",
+		"link": "http://aqwwiki.wikidot.com/technoedge-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/technoedge-axe/TechnoEdgeAxe.png"]
+	},
+	{
+		"name": "TechnoLight of Destiny",
+		"link": "http://aqwwiki.wikidot.com/technolight-of-destiny",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/omPbSzt.png", "https://i.imgur.com/4kDN34S.png"]
+	},
+	{
+		"name": "TechnoReaper of D00m",
+		"link": "http://aqwwiki.wikidot.com/technoreaper-of-d00m",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/C8Rx8YA.png", "https://i.imgur.com/gIZV5gr.png"]
+	},
+	{
+		"name": "Temporal Triune Axe",
+		"link": "http://aqwwiki.wikidot.com/temporal-triune-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/temporal-triune-axe/TemporalTriuneAxe.png"]
+	},
+	{
+		"name": "Temporal Triune Axe +3",
+		"link": "http://aqwwiki.wikidot.com/temporal-triune-axe-3",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/temporal-triune-axe/TemporalTriuneAxe.png"]
+	},
+	{
+		"name": "This Might Be an Axe",
+		"link": "http://aqwwiki.wikidot.com/this-might-be-an-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/this-might-be-an-axe/ThisMightBeAnAxe.png"]
+	},
+	{
+		"name": "TimeReaper Axe",
+		"link": "http://aqwwiki.wikidot.com/timereaper-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/1Ve9Uc3.png"]
+	},
+	{
+		"name": "Tracker Axe",
+		"link": "http://aqwwiki.wikidot.com/tracker-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/tracker-axe/TrackerAxe.png"]
+	},
+	{
+		"name": "Tribal SkinWalker's Axe",
+		"link": "http://aqwwiki.wikidot.com/tribal-skinwalker-s-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/HhDnkut.png"]
+	},
+	{
+		"name": "Triceriaxe",
+		"link": "http://aqwwiki.wikidot.com/triceriaxe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/triceriaxe/Triceriaxe.png"]
+	},
+	{
+		"name": "Trophy Taker",
+		"link": "http://aqwwiki.wikidot.com/trophy-taker",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/trophy-taker/TrophyTaker.png"]
+	},
+	{
+		"name": "Twisted Eldritch Axe",
+		"link": "http://aqwwiki.wikidot.com/twisted-eldritch-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/aoKWUOW.png"]
+	},
+	{
+		"name": "Ultima Geoda",
+		"link": "http://aqwwiki.wikidot.com/ultima-geoda",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/ultima-geoda/UltimaGeoda.png"]
+	},
+	{
+		"name": "Ultimate Blinding Light of Destiny",
+		"link": "http://aqwwiki.wikidot.com/ultimate-blinding-light-of-destiny",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/SCpVmiz.png"]
+	},
+	{
+		"name": "Ultra Elemental Axe",
+		"link": "http://aqwwiki.wikidot.com/ultra-elemental-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/SRabiPh.png", "http://i.imgur.com/h5x4xDM.png"]
+	},
+	{
+		"name": "Unchained Rocker's Attack Guitar",
+		"link": "http://aqwwiki.wikidot.com/unchained-rocker-s-attack-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/3HhAhKX.png"]
+	},
+	{
+		"name": "Unchained Rocker's Guitar",
+		"link": "http://aqwwiki.wikidot.com/unchained-rocker-s-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/ftHAFmp.png"]
+	},
+	{
+		"name": "Undead Glow Guitar",
+		"link": "http://aqwwiki.wikidot.com/undead-glow-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/undead-glow-guitar/UndeadGlowGuitar.png"]
+	},
+	{
+		"name": "Undead Infantry Axe",
+		"link": "http://aqwwiki.wikidot.com/undead-infantry-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/undead-infantry-axe/UndeadInfantryAxe.png"]
+	},
+	{
+		"name": "Undead Slasher Axe",
+		"link": "http://aqwwiki.wikidot.com/undead-slasher-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/undead-slasher-axe/UndeadSlasherAxe.png"]
+	},
+	{
+		"name": "Underworld DeathEater Axe (0 AC)",
+		"link": "http://aqwwiki.wikidot.com/underworld-deatheater-axe-0-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://i.imgur.com/ZC6yKVr.png"]
+	},
+	{
+		"name": "Underworld DeathEater Axe (AC)",
+		"link": "http://aqwwiki.wikidot.com/underworld-deatheater-axe-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/ZC6yKVr.png"]
+	},
+	{
+		"name": "Underworld General Axe (0 AC)",
+		"link": "http://aqwwiki.wikidot.com/underworld-general-axe-0-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://i.imgur.com/zlsBHKa.png", "https://i.imgur.com/S4YX5xN.png"]
+	},
+	{
+		"name": "Underworld General Axe (AC)",
+		"link": "http://aqwwiki.wikidot.com/underworld-general-axe-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/zlsBHKa.png", "https://i.imgur.com/S4YX5xN.png"]
+	},
+	{
+		"name": "Underworld Heretic Axe (0 AC)",
+		"link": "http://aqwwiki.wikidot.com/underworld-heretic-axe-0-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png"
+		],
+		"image": ["https://i.imgur.com/0EIDiny.png"]
+	},
+	{
+		"name": "Underworld Heretic Axe (AC)",
+		"link": "http://aqwwiki.wikidot.com/underworld-heretic-axe-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["https://i.imgur.com/0EIDiny.png"]
+	},
+	{
+		"name": "Underworld Shrade Axe",
+		"link": "http://aqwwiki.wikidot.com/underworld-shrade-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/5vOpg99.png"]
+	},
+	{
+		"name": "Valaska",
+		"link": "http://aqwwiki.wikidot.com/valaska",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/65qRgo5.png"]
+	},
+	{
+		"name": "Viscyra's Axe",
+		"link": "http://aqwwiki.wikidot.com/viscyra-s-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/mrZPxUc.png"]
+	},
+	{
+		"name": "Void Light of Destiny",
+		"link": "http://aqwwiki.wikidot.com/void-light-of-destiny",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/l1y77Tf.png", "http://i.imgur.com/yWNINVM.png"]
+	},
+	{
+		"name": "Void Overlord's Axe",
+		"link": "http://aqwwiki.wikidot.com/void-overlord-s-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/dDhqTVu.png", "https://i.imgur.com/10cbCMK.png"]
+	},
+	{
+		"name": "Void Overlord's Dual-Bladed Axe",
+		"link": "http://aqwwiki.wikidot.com/void-overlord-s-dual-bladed-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/K3ndkNT.png", "https://i.imgur.com/bslovm1.png"]
+	},
+	{
+		"name": "Void Walker Axe",
+		"link": "http://aqwwiki.wikidot.com/void-walker-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/HMXRpQ5.png"]
+	},
+	{
+		"name": "VoidWarlord of Nulgath Axe (1)",
+		"link": "http://aqwwiki.wikidot.com/voidwarlord-of-nulgath-axe-1",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/voidwarlord-of-nulgath-axe-1/VoidWarlordofNulgathAxe.png"
+		]
+	},
+	{
+		"name": "VoidWarlord of Nulgath Axe (2)",
+		"link": "http://aqwwiki.wikidot.com/voidwarlord-of-nulgath-axe-2",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/giant-voidwarlord-axe/GiantVoidWarlordAxe.png"
+		]
+	},
+	{
+		"name": "Volcanic Fire Axe",
+		"link": "http://aqwwiki.wikidot.com/volcanic-fire-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://i.imgur.com/uYHZr6g.png"]
+	},
+	{
+		"name": "Vordred's Shadow Axe of Destiny",
+		"link": "http://aqwwiki.wikidot.com/vordred-s-shadow-axe-of-destiny",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/VLqocxL.png", "https://i.imgur.com/0MnDEDH.png"]
+	},
+	{
+		"name": "WardKeeper's War Axe",
+		"link": "http://aqwwiki.wikidot.com/wardkeeper-s-war-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["http://i.imgur.com/cfqde90.png"]
+	},
+	{
+		"name": "WarSeeker's Axe (AC)",
+		"link": "http://aqwwiki.wikidot.com/warseeker-s-axe-ac",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["https://i.imgur.com/zcfvjMy.png", "https://i.imgur.com/mCQW68Q.png"]
+	},
+	{
+		"name": "WarSeeker's Axe (Special)",
+		"link": "http://aqwwiki.wikidot.com/warseeker-s-axe-special",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/zcfvjMy.png", "https://i.imgur.com/mCQW68Q.png"]
+	},
+	{
+		"name": "Weeping Axe of DOOM",
+		"link": "http://aqwwiki.wikidot.com/weeping-axe-of-doom",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": [
+			"http://aqwwiki.wdfiles.com/local--files/weeping-axe-of-doom/WeepingAxeofDoomN.png",
+			"http://aqwwiki.wdfiles.com/local--files/weeping-axe-of-doom/WeepingAxeofDoomA.png"
+		]
+	},
+	{
+		"name": "William's Guitar",
+		"link": "http://aqwwiki.wikidot.com/william-s-guitar",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/pseudolarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["https://i.imgur.com/h0TtMva.png"]
+	},
+	{
+		"name": "WinterWild Axe",
+		"link": "http://aqwwiki.wikidot.com/winterwild-axe",
+		"type": "Axe",
+		"tags": ["http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png"],
+		"image": ["https://i.imgur.com/ghC9JOe.png"]
+	},
+	{
+		"name": "Zhilo's Axe",
+		"link": "http://aqwwiki.wikidot.com/zhilo-s-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/speciallarge.png"
+		],
+		"image": ["http://i.imgur.com/2FZtReF.png"]
+	},
+	{
+		"name": "Zwamborn",
+		"link": "http://aqwwiki.wikidot.com/zwamborn",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://aqwwiki.wdfiles.com/local--files/zwamborn/Zwamborn.png"]
+	}
+]

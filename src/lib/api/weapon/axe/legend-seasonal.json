@@ -1,0 +1,79 @@
+[
+	{
+		"name": "Black Light of Destiny",
+		"link": "http://aqwwiki.wikidot.com/black-light-of-destiny",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/legendlarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/jAO9l05.png"]
+	},
+	{
+		"name": "FrostScythe's Axe",
+		"link": "http://aqwwiki.wikidot.com/frostscythe-s-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/legendlarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png"
+		],
+		"image": ["http://i.imgur.com/Oqd3ZPp.png", "http://i.imgur.com/zudr7A7.png"]
+	},
+	{
+		"name": "Half-Off Axe",
+		"link": "http://aqwwiki.wikidot.com/half-off-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/legendlarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/nwJbgy2.png"]
+	},
+	{
+		"name": "Pumpkin Axe of Slaying",
+		"link": "http://aqwwiki.wikidot.com/pumpkin-axe-of-slaying",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/legendlarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/BRbrA2A.png"]
+	},
+	{
+		"name": "Sub-Zero Axe",
+		"link": "http://aqwwiki.wikidot.com/sub-zero-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/aclarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/legendlarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/avWDUGI.png"]
+	},
+	{
+		"name": "The Frost Axe",
+		"link": "http://aqwwiki.wikidot.com/the-frost-axe",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/legendlarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/3IZhm42.png"]
+	},
+	{
+		"name": "TurkeyHawk",
+		"link": "http://aqwwiki.wikidot.com/turkeyhawk",
+		"type": "Axe",
+		"tags": [
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/legendlarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/seasonallarge.png",
+			"http://aqwwiki.wdfiles.com/local--files/image-tags/rarelarge.png"
+		],
+		"image": ["http://i.imgur.com/rEw7Lfx.png"]
+	}
+]
